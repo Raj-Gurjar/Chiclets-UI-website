@@ -1,0 +1,51 @@
+@import "variables";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.app-cls {
+    color: white;
+    position: relative;
+
+    .app-cls-inside {
+        background-color: #0358d6;
+    }
+}
+// ::-webkit-scrollbar {
+//     display: none;
+// }
+
+.header2 {
+    position: relative;
+}
+
+.star-fixed {
+    position: fixed;
+    left: 1%;
+    z-index: 999;
+    display: none;
+}
+
+@media (min-width: 1280px) {
+    .app-cls {
+        color: white;
+        position: relative;
+
+        display: flex;
+        justify-content: center;
+
+        .app-cls-inside {
+            display: flex;
+            justify-content: center;
+
+            align-items: center;
+        }
+    }
+}
+@media (max-width: 1100px) {
+    .star-fixed {
+        display: block;
+    }
+}
+
+//!-- animations----

@@ -1,0 +1,63 @@
+{
+    "NewProducts": [
+        {
+            "id": 1,
+            "name": "gggTxefsdffd dfyx",
+            "link": "d"
+        },
+        {
+            "id": 2,
+            "name": "xfdfsdyx",
+            "link": "d"
+        },
+        {
+            "id": 3,
+            "name": "xfdsfsyx",
+            "link": "d"
+        }
+    ],
+    "MainPage": [
+        {
+            "id": 1,
+            "name": "Products",
+            "link": "d"
+        },
+        {
+            "id": 2,
+            "name": "FAQ",
+            "link": "d"
+        }
+    ],
+    "OtherLinks": [
+        {
+            "id": 1,
+            "name": "Legal Notice",
+            "link": "d"
+        },
+        {
+            "id": 2,
+            "name": "Privacy Policy",
+            "link": "d"
+        },
+        {
+            "id": 3,
+            "name": "Cookies Policy",
+            "link": "d"
+        },
+        {
+            "id": 4,
+            "name": "Supply Chain Act",
+            "link": "d"
+        },
+        {
+            "id": 5,
+            "name": "Contact us",
+            "link": "d"
+        },
+        {
+            "id": 6,
+            "name": "Countries",
+            "link": "d"
+        }
+    ]
+}
