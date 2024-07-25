@@ -13,8 +13,8 @@
             "Gum Base"
         ],
         "buy_link": "https://example.com/buy",
-        "product_img": "/assets/Product-transbg/tropical.png",
-        "product_img2": "/../assets/Products/tropical.png",
+        "product_img": "/assets/Product-transbg/tropical.webp",
+        "product_img2": "/../assets/Products/tropical.webp",
         "more_info_link": "https://example.com/info/tropical_twist",
         "nutrition": [
             "calories: 6",
@@ -39,8 +39,8 @@
             "Corn Syrup"
         ],
         "buy_link": "https://example.com/buy",
-        "product_img": "/assets/Product-transbg/spearmint.png",
-        "product_img2": "/src/assets/Products/tropical.png",
+        "product_img": "/assets/Product-transbg/spearmint.webp",
+        "product_img2": "/src/assets/Products/tropical.webp",
         "more_info_link": "https://example.com/info/spearmint_flavour",
         "nutrition": {
             "calories": 8,
@@ -65,8 +65,8 @@
             "Gum Base"
         ],
         "buy_link": "https://example.com/buy",
-        "product_img": "/assets/Product-transbg/mix_fruit.png",
-        "product_img2": "/src/assets/Products/tropical.png",
+        "product_img": "/assets/Product-transbg/mix_fruit.webp",
+        "product_img2": "/src/assets/Products/tropical.webp",
         "more_info_link": "https://example.com/info/mix_fruit_flavour",
         "nutrition": {
             "calories": 7,
@@ -91,8 +91,8 @@
             "Acesulfame K"
         ],
         "buy_link": "https://example.com/buy",
-        "product_img": "/assets/Product-transbg/wintermint.png",
-        "product_img2": "/src/assets/Products/tropical.png",
+        "product_img": "/assets/Product-transbg/wintermint.webp",
+        "product_img2": "/src/assets/Products/tropical.webp",
         "more_info_link": "https://example.com/info/wintermint_flavour",
         "nutrition": {
             "calories": 5,
@@ -117,8 +117,8 @@
             "Gum Base"
         ],
         "buy_link": "https://example.com/buy",
-        "product_img": "/assets/Product-transbg/orange.png",
-        "product_img2": "/src/assets/Product-transbg/tropical.png",
+        "product_img": "/assets/Product-transbg/orange.webp",
+        "product_img2": "/src/assets/Product-transbg/tropical.webp",
         "more_info_link": "https://example.com/info/orange_flavour",
         "nutrition": {
             "calories": 9,
@@ -143,8 +143,8 @@
             "Colors (Yellow 5, Red 40, Blue 1)"
         ],
         "buy_link": "https://example.com/buy",
-        "product_img": "/assets/Product-transbg/strawberry.png",
-        "product_img2": "/src/assets/Products/tropical.png",
+        "product_img": "/assets/Product-transbg/strawberry.webp",
+        "product_img2": "/src/assets/Products/tropical.webp",
         "more_info_link": "https://example.com/info/strawberry_flavour",
         "nutrition": {
             "calories": 6,

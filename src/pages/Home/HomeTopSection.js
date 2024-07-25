@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import home_bg from "../../assets/Backgrounds/home-bg.jpg";
+import home_bg from "../../assets/Backgrounds/home-bg.webp";
 import DarkBlueBtn from "../../components/UI/Buttons/DarkBlueBtn";
 import { Link, useNavigate } from "react-router-dom";
 import VideoButton from "../../components/UI/Buttons/VideoButton";
