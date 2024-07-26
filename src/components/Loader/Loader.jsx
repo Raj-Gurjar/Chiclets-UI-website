@@ -1,16 +1,18 @@
-import { RotateLoader } from "react-spinners";
-import "./loader.css"
+import "./loader.css";
+
 const Loader = () => {
     return (
         <div className="loader">
-            <RotateLoader
-            color="#0f3460"
-            size={20}
-            aria-label="Loading Spinner"
-            data-testid="loader"
-            />
-        </div> 
+            <div className="gum-wrapper">
+                <div className="gum"></div>
+                <div className="gum"></div>
+                <div className="gum"></div>
+                <div className="gum"></div>
+                <div className="gum"></div>
+            </div>
+
+        </div>
     );
-}
+};
 
 export default Loader;
