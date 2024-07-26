@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/Chiclets-UI-website/static/css/main.80705340.css",
+    "main.js": "/Chiclets-UI-website/static/js/main.5554f269.js",
+    "static/css/940.e0d9bbc9.chunk.css": "/Chiclets-UI-website/static/css/940.e0d9bbc9.chunk.css",
+    "static/js/940.6d4d5d03.chunk.js": "/Chiclets-UI-website/static/js/940.6d4d5d03.chunk.js",
+    "static/js/340.734d8411.chunk.js": "/Chiclets-UI-website/static/js/340.734d8411.chunk.js",
+    "static/js/211.55959848.chunk.js": "/Chiclets-UI-website/static/js/211.55959848.chunk.js",
+    "static/js/199.dc08484e.chunk.js": "/Chiclets-UI-website/static/js/199.dc08484e.chunk.js",
+    "static/js/601.135e72af.chunk.js": "/Chiclets-UI-website/static/js/601.135e72af.chunk.js",
+    "static/js/203.8f73fc19.chunk.js": "/Chiclets-UI-website/static/js/203.8f73fc19.chunk.js",
+    "static/js/897.3fdc5e01.chunk.js": "/Chiclets-UI-website/static/js/897.3fdc5e01.chunk.js",
+    "static/css/140.e0d9bbc9.chunk.css": "/Chiclets-UI-website/static/css/140.e0d9bbc9.chunk.css",
+    "static/js/140.883b872f.chunk.js": "/Chiclets-UI-website/static/js/140.883b872f.chunk.js",
+    "static/js/453.5f3d4474.chunk.js": "/Chiclets-UI-website/static/js/453.5f3d4474.chunk.js",
+    "static/js/720.69d5999b.chunk.js": "/Chiclets-UI-website/static/js/720.69d5999b.chunk.js",
+    "static/js/342.8d7b59c9.chunk.js": "/Chiclets-UI-website/static/js/342.8d7b59c9.chunk.js",
+    "static/media/home-bg.webp": "/Chiclets-UI-website/static/media/home-bg.c32d84da09f377194efc.webp",
+    "static/media/chiclets.png": "/Chiclets-UI-website/static/media/chiclets.20e43633815e2d46dccc.png",
+    "static/media/home-header-bg.svg": "/Chiclets-UI-website/static/media/home-header-bg.ab6fd31e0f34a7966d90ffc3cdc598df.svg",
+    "index.html": "/Chiclets-UI-website/index.html",
+    "main.80705340.css.map": "/Chiclets-UI-website/static/css/main.80705340.css.map",
+    "main.5554f269.js.map": "/Chiclets-UI-website/static/js/main.5554f269.js.map",
+    "940.e0d9bbc9.chunk.css.map": "/Chiclets-UI-website/static/css/940.e0d9bbc9.chunk.css.map",
+    "940.6d4d5d03.chunk.js.map": "/Chiclets-UI-website/static/js/940.6d4d5d03.chunk.js.map",
+    "340.734d8411.chunk.js.map": "/Chiclets-UI-website/static/js/340.734d8411.chunk.js.map",
+    "211.55959848.chunk.js.map": "/Chiclets-UI-website/static/js/211.55959848.chunk.js.map",
+    "199.dc08484e.chunk.js.map": "/Chiclets-UI-website/static/js/199.dc08484e.chunk.js.map",
+    "601.135e72af.chunk.js.map": "/Chiclets-UI-website/static/js/601.135e72af.chunk.js.map",
+    "203.8f73fc19.chunk.js.map": "/Chiclets-UI-website/static/js/203.8f73fc19.chunk.js.map",
+    "897.3fdc5e01.chunk.js.map": "/Chiclets-UI-website/static/js/897.3fdc5e01.chunk.js.map",
+    "140.e0d9bbc9.chunk.css.map": "/Chiclets-UI-website/static/css/140.e0d9bbc9.chunk.css.map",
+    "140.883b872f.chunk.js.map": "/Chiclets-UI-website/static/js/140.883b872f.chunk.js.map",
+    "453.5f3d4474.chunk.js.map": "/Chiclets-UI-website/static/js/453.5f3d4474.chunk.js.map",
+    "720.69d5999b.chunk.js.map": "/Chiclets-UI-website/static/js/720.69d5999b.chunk.js.map",
+    "342.8d7b59c9.chunk.js.map": "/Chiclets-UI-website/static/js/342.8d7b59c9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80705340.css",
+    "static/js/main.5554f269.js"
+  ]
+}
