@@ -37,7 +37,7 @@ const Products = ({ setbg }) => {
     } else {
       window.scrollTo(0, 0);
     }
-  }, [location, productId, scrollToProduct]);
+  }, [location, productId, scrollToProduct, setbg]);
 
   const handleCategoryClick = (event, id) => {
     event.preventDefault();

@@ -12,7 +12,7 @@ import { SlSocialLinkedin } from "react-icons/sl";
 import { FaXTwitter } from "react-icons/fa6";
 
 export default function Footer({ pt = "50px" }) {
-  const newProductsData = FooterData?.NewProducts;
+ 
   const mainPagesData = FooterData?.MainPage;
   const productNames = ProductData;
   const OtherLinks = FooterData?.OtherLinks;

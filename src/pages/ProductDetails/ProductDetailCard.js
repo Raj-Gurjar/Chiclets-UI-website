@@ -1,7 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { useLocation } from "react-router-dom";
 import ProductDescription from "./ProductDescription";
-// import "./ProductDetailCard.scss"; // Ensure this is the correct path to your CSS/SCSS file
 
 export default function ProductDetailCard({ productData }) {
   const [animate, setAnimate] = useState(false);
@@ -17,14 +16,11 @@ export default function ProductDetailCard({ productData }) {
     return () => clearTimeout(timer);
   }, [location.pathname]);
 
-
-
   return (
     <div className="productDetails-container-inner ">
-      
       <div className="productDetails-img-col">
         <img
-          key={location.pathname} 
+          key={location.pathname}
           src={productData?.product_img}
           alt="product-img"
           className={animate ? "animate-img" : ""}

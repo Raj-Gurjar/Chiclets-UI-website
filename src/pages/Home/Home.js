@@ -12,9 +12,7 @@ const HomePick2 = React.lazy(() => import("./HomePick2"));
 const HomeStore = React.lazy(() => import("./HomeStore"));
 const HomeFollow = React.lazy(() => import("./HomeFollow"));
 const Footer = React.lazy(() => import("../../components/Footer/Footer"));
-const RandomFigures = React.lazy(() =>
-  import("../../components/RandomFigures/RandomFigures")
-);
+
 const CenterText = React.lazy(() => import("./CenterText"));
 const HomeFeature = React.lazy(() => import("./HomeFeature"));
 

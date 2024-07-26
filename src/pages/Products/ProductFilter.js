@@ -1,6 +1,5 @@
 import React from "react";
-import DarkBlueBtn from "../../components/UI/Buttons/DarkBlueBtn";
-import { GiSettingsKnobs } from "react-icons/gi";
+
 
 export default function ProductFilter() {
   return (

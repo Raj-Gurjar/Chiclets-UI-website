@@ -1,10 +1,8 @@
 import React from "react";
-import { Link, useNavigate, useParams } from "react-router-dom";
+import { Link } from "react-router-dom";
 import { IoIosArrowForward } from "react-icons/io";
 
 export default function ProductDetailsRoute({ data }) {
-  const navigate = useNavigate();
-
   return (
     <div>
       <div className="productDetails-routes">

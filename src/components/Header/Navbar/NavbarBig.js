@@ -1,13 +1,10 @@
 import React from "react";
 import { FaArrowRight } from "react-icons/fa";
 import "./Navbar.scss";
-import { Link, useLocation } from "react-router-dom";
-import star_01 from "../../../assets/Backgrounds/star01.png"
+import { Link } from "react-router-dom";
+import star_01 from "../../../assets/Backgrounds/star01.png";
 
 export default function NavbarBig({ flag }) {
-  const location = useLocation();
-  const currentPath = location.pathname;
-
   return (
     <div className="navbar-big-container">
       <div className="star-01">

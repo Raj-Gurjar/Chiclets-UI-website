@@ -18,12 +18,12 @@ export default function ProductDescription({ data }) {
 
       <div className="description-btn-container">
         <div>
-          <a href={buyNow} target="_blank">
+          <a href={buyNow} target="_blank" rel="noreferrer">
             <h3>BUY NOW</h3>
           </a>
         </div>
         <div>
-          <a href={moreInfo} target="_blank">
+          <a href={moreInfo} target="_blank" rel="noreferrer">
             <h4>More product info</h4>
           </a>
         </div>

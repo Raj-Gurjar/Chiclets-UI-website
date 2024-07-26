@@ -1,7 +1,7 @@
 import React from "react";
 import ProductCard1 from "../../components/Cards/ProductCard1";
 import ProductData from "../../Data/ProductsData.json";
-import { Link } from "react-router-dom";
+
 
 const HomePick = () => (
   <div className="homePick-1-container">

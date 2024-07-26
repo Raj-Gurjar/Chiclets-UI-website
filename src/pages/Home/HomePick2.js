@@ -1,7 +1,7 @@
 import React from "react";
 import ProductCard3 from "../../components/Cards/ProductCard3";
 import ProductData from "../../Data/ProductsData.json";
-import { Link } from "react-router-dom";
+
 
 export default function HomePick2() {
   return (

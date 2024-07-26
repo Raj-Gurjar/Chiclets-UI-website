@@ -1,8 +1,6 @@
 @import "../../../variables";
 
 .universal-btn {
-    // color: initi;
-
     .yellow-btn {
         background-color: #ffe602;
         color: black;
@@ -63,12 +61,8 @@
             h4 {
                 font-size: 55px;
                 padding: 20px;
-               
             }
-
-         
         }
-     
     }
 }
 @media (max-width: 500px) {
@@ -84,8 +78,6 @@
                 font-size: 55px;
                 padding: 10px;
             }
-
-          
         }
         // #07285d
     }

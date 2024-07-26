@@ -475,15 +475,9 @@
     }
 
     //!  ---- Home Store ---
-    .home-store-container {
-        h1 {
-        }
-    }
 
     //! ---- Center Text -----
     .center-text-container {
-        .star-02 {
-        }
         .center-circle-container {
             h1 {
                 font-size: 42px;
@@ -687,7 +681,6 @@
 @media (max-width: 967px) {
     .home-top-container {
         // background-color: rgb(245, 13, 13);
-       
 
         .home-img-container {
             // background-color: red;
@@ -816,8 +809,6 @@
         }
     }
     .center-text-container {
-        .star-02 {
-        }
         .center-circle-container {
             h1 {
                 font-size: 28px;
@@ -871,17 +862,6 @@
                     input,
                     select {
                         width: 100%;
-
-                        &:focus {
-                        }
-                    }
-
-                    .select-box-container {
-                        select {
-                        }
-
-                        span {
-                        }
                     }
                 }
             }
@@ -962,10 +942,6 @@
 
     .homePick-2-container {
         margin-bottom: -20%;
-        // background-color: red;
-        // padding: 0px 20px;
-        h1 {
-        }
     }
 }
 
@@ -1067,7 +1043,5 @@
         margin-bottom: -33%;
         // background-color: red;
         // padding: 0px 20px;
-        h1 {
-        }
     }
 }

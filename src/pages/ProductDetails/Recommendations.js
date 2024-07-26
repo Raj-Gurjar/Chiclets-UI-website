@@ -1,7 +1,5 @@
 import React from "react";
 import ProductCard3 from "../../components/Cards/ProductCard3";
-import { Link } from "react-router-dom";
-// import ProductData from "../../Data/ProductsData.json";
 
 export default function Recommendations({ productData }) {
   return (
