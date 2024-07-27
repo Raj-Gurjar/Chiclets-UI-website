@@ -2,10 +2,12 @@ import React, { useEffect, Suspense } from "react";
 import "./Home.scss";
 import Loader from "../../components/Loader/Loader";
 import star_img from "../../assets/Backgrounds/star01.png";
+import RandomFigures from "../../components/RandomFigures/RandomFigures";
 
 const Navbar = React.lazy(() =>
   import("../../components/Header/Navbar/Navbar")
 );
+
 const HomeTopSection = React.lazy(() => import("./HomeTopSection"));
 const HomePick = React.lazy(() => import("./HomePick"));
 const HomePick2 = React.lazy(() => import("./HomePick2"));
