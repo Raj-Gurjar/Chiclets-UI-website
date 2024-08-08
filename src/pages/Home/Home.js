@@ -2,7 +2,7 @@ import React, { useEffect, Suspense } from "react";
 import "./Home.scss";
 import Loader from "../../components/Loader/Loader";
 import star_img from "../../assets/Backgrounds/star01.png";
-import RandomFigures from "../../components/RandomFigures/RandomFigures";
+// import RandomFigures from "../../components/RandomFigures/RandomFigures";
 
 const Navbar = React.lazy(() =>
   import("../../components/Header/Navbar/Navbar")
